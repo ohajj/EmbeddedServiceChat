@@ -200,10 +200,10 @@ img.emoji {
                     <p>*Campos obrigatórios</p>
                     <div role="form" class="wpcf7" id="wpcf7-f196-o1" lang="pt-BR" dir="ltr">
 <div class="screen-reader-response"><p role="status" aria-live="polite" aria-atomic="true"></p> <ul></ul></div>
-<form action="https://webto.salesforce.com/servlet/servlet.WebToCase?encoding=UTF-8&orgId=00DHs000002lchw" method="POST">
+<form action="https://webto.salesforce.com/servlet/servlet.WebToLead?encoding=UTF-8&orgId=00DHs000002lchw" method="POST">
 
-<input type=hidden name="orgid" value="00DHs000002lchw">
-<input type=hidden name="retURL" value="https://elevabr.com.br/">
+<input type=hidden name="oid" value="00DHs000002lchw">
+<input type=hidden name="retURL" value="http://elevabr.com.br">
 <div style="display: none;">
 <input type="hidden" name="_wpcf7" value="196" />
 <input type="hidden" name="_wpcf7_version" value="5.5.2" />
@@ -213,10 +213,10 @@ img.emoji {
 <input type="hidden" name="_wpcf7_posted_data_hash" value="" />
 </div>
 <div class="form-el form-contato">
-	<form action="https://webto.salesforce.com/servlet/servlet.WebToCase?encoding=UTF-8&orgId=00DHs000002lchw" method="POST">
+	<form action="https://webto.salesforce.com/servlet/servlet.WebToLead?encoding=UTF-8&orgId=00DHs000002lchw" method="POST">
 
-<input type=hidden name="orgid" value="00DHs000002lchw">
-<input type=hidden name="retURL" value="https://elevabr.com.br/">
+<input type=hidden name="oid" value="00DHs000002lchw">
+<input type=hidden name="retURL" value="http://elevabr.com.br">
     <label for="name">Nome Completo</label><input  id="last_name" maxlength="80" name="last_name" size="20" type="text" /><br></span><br />
     <span class="wpcf7-form-control-wrap email"><label for="email">Email</label><input  id="email" maxlength="80" name="email" size="20" type="text" /><br></span><br />
     <span class="wpcf7-form-control-wrap assunto"><label for="company">Empresa</label><input  id="company" maxlength="40" name="company" size="20" type="text" /><br></span><br />
