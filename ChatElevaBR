@@ -217,7 +217,7 @@ img.emoji {
 
 <input type=hidden name="orgid" value="00DHs000002lchw">
 <input type=hidden name="retURL" value="https://elevabr.com.br/">
-    <label for="name">Nome Completo</label><input  id="name" maxlength="80" name="name" size="20" type="text" /><br></span><br />
+    <label for="name">Nome Completo</label><input  id="last_name" maxlength="80" name="last_name" size="20" type="text" /><br></span><br />
     <span class="wpcf7-form-control-wrap email"><label for="email">Email</label><input  id="email" maxlength="80" name="email" size="20" type="text" /><br></span><br />
     <span class="wpcf7-form-control-wrap assunto"><label for="subject">Assunto</label><input  id="subject" maxlength="80" name="subject" size="20" type="text" /><br></span><br />
     <span class="wpcf7-form-control-wrap departamento"><select name="departamento" class="wpcf7-form-control wpcf7-select wpcf7-validates-as-required" aria-required="true" aria-invalid="false"><option value="">---</option><option value="Comercial">Comercial</option><option value="Manutenção">Manutenção</option><option value="Financeiro">Financeiro</option><option value="RH">RH</option></select></span><br />
